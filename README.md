@@ -64,7 +64,6 @@ This project demonstrates how Business Intelligence techniques can be applied to
 - MySQL Workbench
 - Power BI Desktop
 - DAX
-- Python (Pandas)
 
 ---
 
